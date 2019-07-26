@@ -1,0 +1,11 @@
+section {
+    min-height: 420px;
+}
+.box{
+	color:#42dca3;
+}
+
+.box:hover{
+	background:42dca3;
+	color:#fff;
+}

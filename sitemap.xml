@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://insanoo.github.io/about/</loc>
+    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/contact/</loc>
+    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/portofolio/</loc>
+    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</loc>
+    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/post/</loc>
+    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/</loc>
+    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

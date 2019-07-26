@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sanit</title>
+    <link>https://insanoo.github.io/post/</link>
+    <description>Recent content in Posts on Sanit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Jul 2019 14:12:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://insanoo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bagaimana Blog Ini Dibuat</title>
+      <link>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</link>
+      <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
+      
+      <guid>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</guid>
+      <description>Blog ini dibuat dengan Hugo. Hugo merupakan satu dari sekian banyak static site generators yang open source dan terpopuler yang memiliki keunggulan dari speed dan flexibility dalam penggunaanya.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanit</title>
+    <link>https://insanoo.github.io/</link>
+    <description>Recent content on Sanit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Jul 2019 14:12:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://insanoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://insanoo.github.io/about/</link>
+      <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
+      
+      <guid>https://insanoo.github.io/about/</guid>
+      <description>About   Cerita Sedikit Tentang Saya    Halo saya Insan Gumelar Nugraha, seorang Lulusan TI. Saat ini masih bekerja sebagai freelance, kesibukan saat ini mengerjakan apa yang bisa dikerjakan hehe. Selain saya suka menyukai bidang TI.
+Saya juga menyukai bidang olahraga, tidak ada salahnya jika seorang programmer menjaga kesehatanya jangan ada didepan layar terus, kesehatan juga lebih penting. Jadilah seorang programmer yang sehat ga begadang. Hanya saja kita perlu benar-benar mengatur waktu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://insanoo.github.io/contact/</link>
+      <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
+      
+      <guid>https://insanoo.github.io/contact/</guid>
+      <description>Contact us   Sent me a some message!
+  Location Bekasi, West Java, Indonesia   Nama  Email  Pesan   Kirim Pesan!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://insanoo.github.io/portofolio/</link>
+      <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
+      
+      <guid>https://insanoo.github.io/portofolio/</guid>
+      <description>Portofolio   IT Infrastructure (2018) Last project was involved in the IT Infrastructure project in KEMENDESA
+View  Job Desc: &amp;times;     Installation windows server 2012  Configure Active Directory  Make Captive Portal  Configure SSO (single Sign On)         IT Support (2017) Internship at PT HADEKA PRIMANTARA as an IT Support for 3 month
+View  Job Desc: &amp;times;     Troubleshooting HW &amp; SW  Management Bandwidth  Design New Topology (Tested)          IT Support (2013) Internship at PT Bakrie Pipes Industries for 1 month</description>
+    </item>
+    
+    <item>
+      <title>Bagaimana Blog Ini Dibuat</title>
+      <link>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</link>
+      <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
+      
+      <guid>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</guid>
+      <description>Blog ini dibuat dengan Hugo. Hugo merupakan satu dari sekian banyak static site generators yang open source dan terpopuler yang memiliki keunggulan dari speed dan flexibility dalam penggunaanya.</description>
+    </item>
+    
+  </channel>
+</rss>
