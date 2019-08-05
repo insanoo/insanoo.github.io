@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://insanoo.github.io/blog/kangen-radio/</loc>
+    <lastmod>2019-08-05T19:35:22+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://insanoo.github.io/post/</loc>
+    <lastmod>2019-08-05T19:35:22+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://insanoo.github.io/about/</loc>
     <lastmod>2019-07-26T14:12:57+07:00</lastmod>
   </url>
@@ -20,12 +31,6 @@
   <url>
     <loc>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</loc>
     <lastmod>2019-07-26T14:12:57+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://insanoo.github.io/post/</loc>
-    <lastmod>2019-07-26T14:12:57+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
