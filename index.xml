@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sanit</title>
+    <title>Sanitarium</title>
     <link>https://insanoo.github.io/</link>
-    <description>Recent content on Sanit</description>
+    <description>Recent content on Sanitarium</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 26 Jul 2019 14:12:57 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 19:53:07 +0700</lastBuildDate>
     
 	<atom:link href="https://insanoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,8 @@
       <pubDate>Mon, 02 Sep 2019 19:53:07 +0700</pubDate>
       
       <guid>https://insanoo.github.io/blog/1-frekuensi/</guid>
-      <description>Semakin bertambahnya umur dan seiring berjalannya waktu, &#34;Saya&#34; semakin mengenal apa yang saya butuhkan bukan hanya mengikuti keinginan serta angan-angan yang ada didalam diri. melainkan tentang konsep hidup, passion, dan bersosialisasi dengan banyak orang. Semua menjadi semakin minimalis dan tidak ingin yang terlalu ribet menjalaninya. karena apa yang terjadi telah membuka saya yang dulu, terlalu banyak membuang waktu, terlalu banyak mengurusi urusan orang dan terlalu mengobarkan diri sendiri demi orang lain.</description>
+      <description>Semakin bertambahnya umur dan seiring berjalannya waktu, &amp;ldquo;Saya&amp;rdquo; semakin mengenal apa yang saya butuhkan bukan hanya mengikuti keinginan serta angan-angan yang ada didalam diri. melainkan tentang konsep hidup, passion, dan bersosialisasi dengan banyak orang.
+Semua menjadi semakin minimalis dan tidak ingin yang terlalu ribet menjalaninya. karena apa yang terjadi telah membuka saya yang dulu, terlalu banyak membuang waktu, terlalu banyak mengurusi urusan orang dan terlalu mengobarkan diri sendiri demi orang lain.</description>
     </item>
     
     <item>
@@ -45,8 +46,7 @@ Saya juga menyukai bidang olahraga, tidak ada salahnya jika seorang programmer m
       <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
       
       <guid>https://insanoo.github.io/contact/</guid>
-      <description>Contact us   Sent me a some message!
-  Location Bekasi, West Java, Indonesia   Nama  Email  Pesan   Kirim Pesan!</description>
+      <description></description>
     </item>
     
     <item>
@@ -55,18 +55,9 @@ Saya juga menyukai bidang olahraga, tidak ada salahnya jika seorang programmer m
       <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
       
       <guid>https://insanoo.github.io/portofolio/</guid>
-      <description>Portofolio   IT Infrastructure (2018) Last project was involved in the IT Infrastructure project in KEMENDESA
+      <description>About  IT Infrastructure (2018) Last project was involved in the IT Infrastructure project in KEMENDESA
 View  Job Desc: &amp;times;     Installation windows server 2012  Configure Active Directory  Make Captive Portal  Configure SSO (single Sign On)         IT Support (2017) Internship at PT HADEKA PRIMANTARA as an IT Support for 3 month
 View  Job Desc: &amp;times;     Troubleshooting HW &amp; SW  Management Bandwidth  Design New Topology (Tested)          IT Support (2013) Internship at PT Bakrie Pipes Industries for 1 month</description>
-    </item>
-    
-    <item>
-      <title>Bagaimana Blog Ini Dibuat</title>
-      <link>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</link>
-      <pubDate>Fri, 26 Jul 2019 14:12:57 +0700</pubDate>
-      
-      <guid>https://insanoo.github.io/blog/bagaimana-blog-ini-dibuat/</guid>
-      <description>Blog ini dibuat dengan Hugo. Hugo merupakan satu dari sekian banyak static site generators yang open source dan terpopuler yang memiliki keunggulan dari speed dan flexibility dalam penggunaanya.</description>
     </item>
     
   </channel>
